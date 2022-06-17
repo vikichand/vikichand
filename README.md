@@ -639,12 +639,11 @@ _Profile stats_
 _Latest 5 from a playlist I'm currently listening to for those late night coding sessions_
 
 <!-- YouTube:START -->
-
--   [Lost Summer - Post Malone/Travis Scott Type Beat &lpar;FREE FOR PROFIT USE&rpar;](https://www.youtube.com/watch?v=lchn3T2aYzU)
--   [Possessed - dark rap/hip hop beat &lpar;FREE FOR PROFIT USE&rpar;](https://www.youtube.com/watch?v=PuWdyQvwsBk)
--   [manic - alt rock type rap beat / Prod. Riddiman x Joe Leytrick &lpar;FREE FOR PROFIT USE&rpar;](https://www.youtube.com/watch?v=3I3DonXtEqA)
--   [torment - hard alt rock type rap beat / Prod. Riddiman x Joe Leytrick &lpar;FREE FOR PROFIT USE&rpar;](https://www.youtube.com/watch?v=jzh0n6BI0N4)
--   [brutality - hard piano rap/hip hop beat &lpar;FREE FOR PROFIT USE&rpar;](https://www.youtube.com/watch?v=8eKyjYOZ7yA)
+- [Lost Summer - Post Malone/Travis Scott Type Beat &lpar;FREE FOR PROFIT USE&rpar;](https://www.youtube.com/watch?v=lchn3T2aYzU)
+- [Possessed - dark rap/hip hop beat &lpar;FREE FOR PROFIT USE&rpar;](https://www.youtube.com/watch?v=PuWdyQvwsBk)
+- [manic - alt rock type rap beat / Prod. Riddiman x Joe Leytrick &lpar;FREE FOR PROFIT USE&rpar;](https://www.youtube.com/watch?v=3I3DonXtEqA)
+- [torment - hard alt rock type rap beat / Prod. Riddiman x Joe Leytrick &lpar;FREE FOR PROFIT USE&rpar;](https://www.youtube.com/watch?v=jzh0n6BI0N4)
+- [brutality - hard piano rap/hip hop beat &lpar;FREE FOR PROFIT USE&rpar;](https://www.youtube.com/watch?v=8eKyjYOZ7yA)
 <!-- YouTube:END -->
 
 _Stay focused!_
