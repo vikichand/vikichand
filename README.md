@@ -639,11 +639,11 @@ _Profile stats_
 _Latest 5 from a playlist I'm currently listening to for those late night coding sessions_
 
 <!-- YouTube:START -->
+- [far away - lofi hip hop type beat [FREE FOR PROFIT USE]](https://www.youtube.com/watch?v=b4Oe83aB8Fo)
 - [lost - lofi hip hop type beat [FREE FOR PROFIT USE]](https://www.youtube.com/watch?v=0BcYVfvRBNQ)
 - [Lost Summer - Post Malone/Travis Scott Type Beat &lpar;FREE FOR PROFIT USE&rpar;](https://www.youtube.com/watch?v=lchn3T2aYzU)
 - [Possessed - dark rap/hip hop beat &lpar;FREE FOR PROFIT USE&rpar;](https://www.youtube.com/watch?v=PuWdyQvwsBk)
 - [manic - alt rock type rap beat / Prod. Riddiman x Joe Leytrick &lpar;FREE FOR PROFIT USE&rpar;](https://www.youtube.com/watch?v=3I3DonXtEqA)
-- [torment - hard alt rock type rap beat / Prod. Riddiman x Joe Leytrick &lpar;FREE FOR PROFIT USE&rpar;](https://www.youtube.com/watch?v=jzh0n6BI0N4)
 <!-- YouTube:END -->
 
 _Stay focused!_
