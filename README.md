@@ -10,13 +10,11 @@
     </a>
 </p>
 
-# 𝙷𝚒 𝙸'𝚖 𝚅𝚒𝚔𝚊𝚜𝚑 <a href="#"><img src="./assets/images/flash.gif" width="50" alt="Hi"></a>
+# 𝙷𝚒, 𝙸'𝚖 𝚅𝚒𝚔𝚊𝚜𝚑 <a href="#"><img src="./assets/images/flash.gif" width="50" alt="Hi"></a>
 
-### 𝙵𝚞𝚕𝚕-𝚂𝚝𝚊𝚌𝚔 | 𝙲𝚛𝚎𝚊𝚝𝚒𝚟𝚎 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 | 𝙿𝚊𝚜𝚜𝚒𝚘𝚗𝚊𝚝𝚎 𝚊𝚋𝚘𝚞𝚝 𝙳𝚊𝚝𝚊 𝚂𝚌𝚒𝚎𝚗𝚌𝚎
+### 𝙵𝚞𝚕𝚕-𝚂𝚝𝚊𝚌𝚔 𝙲𝚛𝚎𝚊𝚝𝚒𝚟𝚎 𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛 | 𝙿𝚊𝚜𝚜𝚒𝚘𝚗𝚊𝚝𝚎 𝚊𝚋𝚘𝚞𝚝 𝙼𝚊𝚌𝚑𝚒𝚗𝚎 𝙻𝚎𝚊𝚛𝚗𝚒𝚗𝚐, 𝙳𝚊𝚝𝚊 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 𝚊𝚗𝚍 𝙲𝚛𝚎𝚊𝚝𝚒𝚟𝚎 𝙲𝚘𝚍𝚒𝚗𝚐.
 
-or so I'd like to think 😂
-
-Trying to simultaneously learn heaps and cook up cool projects.
+<a href="#"><img src="./assets/images/flash.gif" width="25" alt="Hi"></a> Trying to simultaneously learn heaps and cook up cool projects.
 
 #
 
@@ -44,14 +42,14 @@ Trying to simultaneously learn heaps and cook up cool projects.
     </a>
 </p>
 
-### Follow Me:
+### <a href="#"><img src="./assets/images/flash.gif" width="25" alt="Hi"></a> 𝙵𝚘𝚕𝚕𝚘𝚠 𝙼𝚎:
 
 <p align="center">
-    <a href="https://vikash.ch/" rel="nofollow">
-        <img src="https://img.shields.io/badge/-Website:%20https://vikash.ch/-f5f5f5?style=for-the-badge&amp;labelColor=f5f5f5" alt="LinkedIn" style="max-width:100%;">
-    </a>
     <a href="https://www.linkedin.com/in/vikash-chand-fiji" rel="nofollow">
         <img src="https://img.shields.io/badge/-LinkedIn-f5f5f5?style=for-the-badge&amp;labelColor=f5f5f5&amp;logo=LinkedIn&amp;logoColor=007BB6" alt="LinkedIn" style="max-width:100%;">
+    </a>
+    <a href="https://vikash.ch/" rel="nofollow">
+        <img src="https://img.shields.io/badge/-Website:%20https://vikash.ch/-f5f5f5?style=for-the-badge&amp;labelColor=f5f5f5" alt="LinkedIn" style="max-width:100%;">
     </a>
     <a href="https://www.instagram.com/vikichand" rel="nofollow">
         <img src="https://img.shields.io/badge/-Instagram-f5f5f5?style=for-the-badge&amp;labelColor=f5f5f5&amp;logo=Instagram" alt="Instagram"
@@ -69,37 +67,37 @@ Trying to simultaneously learn heaps and cook up cool projects.
 
 -   💎 Currently trying to find time to learn more and work on
     -   Full-Stack
-        -   Machine Learning
-        -   AI
         -   JavaScript
         -   Python
+        -   Machine Learning
+        -   AI
         -   and Flutter projects
     -   and contribute more to open source, so stay tuned!
 -   ⚡ Fun facts:
     -   I play games and try going to the GYM often 🤭
     -   I like my beers cold 🍺 and the whiskey old 🥃
 
-### Top Tools & Technologies:
+### <a href="#"><img src="./assets/images/flash.gif" width="25" alt="Hi"></a> 𝚃𝚘𝚙 𝚃𝚘𝚘𝚕𝚜 & 𝚃𝚎𝚌𝚑𝚗𝚘𝚕𝚘𝚐𝚒𝚎𝚜:
 
 <!-- TODO: Update the rest of the as badges as below - Vikash -->
 
 <p align="center">
-    <a href="#">
+    <a href="https://vikash.ch/">
         <img src="https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&amp;labelColor=black&amp;logo=JavaScript&amp;logoColor=F0DB4F" alt="Javascript" style="max-width:100%;">
     </a>
-    <a href="#">
+    <a href="https://vikash.ch/">
         <img src="https://img.shields.io/badge/-Python-f5f5f5?style=for-the-badge&amp;labelColor=black&amp;logo=Python&amp;logoColor=f5f5f5" alt="Python" style="max-width:100%;">
     </a>
-    <a href="#">
+    <a href="https://vikash.ch/">
         <img src="https://img.shields.io/badge/-Flutter-075b9a?style=for-the-badge&amp;labelColor=black&amp;logo=Flutter&amp;logoColor=075b9a" alt="Flutter" style="max-width:100%;">
     </a>
-    <a href="#">
+    <a href="https://vikash.ch/">
         <img src="https://img.shields.io/badge/-React-61dafb?style=for-the-badge&amp;labelColor=black&amp;logo=React&amp;logoColor=61dafb" alt="React" style="max-width:100%;">
     </a>
-    <a href="#">
+    <a href="https://vikash.ch/">
         <img src="https://img.shields.io/badge/-TensorFlow-F88C00?style=for-the-badge&amp;labelColor=black&amp;logo=TensorFlow&amp;logoColor=F88C00" alt="TensorFlow" style="max-width:100%;">
     </a>
-    <a href="#">
+    <a href="https://vikash.ch/">
         <img src="https://img.shields.io/badge/-opencv-8957e5?style=for-the-badge&amp;labelColor=black&amp;logo=opencv&amp;logoColor=8957e5" alt="OpenCV" style="max-width:100%;">
     </a>
 </p>
@@ -116,7 +114,7 @@ Trying to simultaneously learn heaps and cook up cool projects.
 
 #
 
-### 𝙼𝚘𝚛𝚎 𝚊𝚋𝚘𝚞𝚝 𝚖𝚎:
+### <a href="#"><img src="./assets/images/flash.gif" width="25" alt="Hi"></a> 𝙼𝚘𝚛𝚎 𝚊𝚋𝚘𝚞𝚝 𝚖𝚎:
 
 <details open>
     <summary>
@@ -620,9 +618,9 @@ _Profile stats_
 
 #
 
-### ➜ Bizness
+### ➜ Bizness <a href="#"><img src="./assets/images/flash.gif" width="50" alt="Hi"></a>
 
--   📑 [My Resume / CV](./resume/VikashChand_resume.pdf) <a href="#"><img src="./assets/images/flash.gif" width="50" alt="Hi"></a> _updated [15/05/2022]_
+-   📑 [My Resume / CV](./resume/VikashChand_resume.pdf) _updated [15/05/2022]_
 
 <p align="right">
     <a href="#">
