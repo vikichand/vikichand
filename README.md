@@ -45,10 +45,10 @@
 ### <a href="#"><img src="./assets/images/flash.gif" width="25" alt="Hi"></a> 𝙵𝚘𝚕𝚕𝚘𝚠 𝙼𝚎:
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/vikash-chand-fiji" rel="nofollow">
+    <a href="https://www.linkedin.com/in/vikash-ch" rel="nofollow">
         <img src="https://img.shields.io/badge/-LinkedIn-f5f5f5?style=for-the-badge&amp;labelColor=f5f5f5&amp;logo=LinkedIn&amp;logoColor=007BB6" alt="LinkedIn" style="max-width:100%;">
     </a>
-    <a href="https://vikash.ch/" rel="nofollow">
+    <a href="https://miniprofile.vikash.ch/" rel="nofollow">
         <img src="https://img.shields.io/badge/-Website:%20https://vikash.ch/-f5f5f5?style=for-the-badge&amp;labelColor=f5f5f5" alt="LinkedIn" style="max-width:100%;">
     </a>
     <a href="https://www.instagram.com/vikichand" rel="nofollow">
