@@ -632,7 +632,7 @@ In my previous roles, I have also led solution design, research and development,
 
 _Profile stats_
 
-[![visitors](https://visitor-badge.glitch.me/badge?page_id=vikichand)](#)
+[![visitors](https://visitor-badge.glitch.me/badge?page_id=vikichand)](/)
 [![Github](https://img.shields.io/github/followers/vikichand?label=Follow&style=social)](https://github.com/vikichand)
 
 <!--
