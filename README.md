@@ -49,7 +49,7 @@
         <img src="https://img.shields.io/badge/-LinkedIn-f5f5f5?style=for-the-badge&amp;labelColor=f5f5f5&amp;logo=LinkedIn&amp;logoColor=007BB6" alt="LinkedIn" style="max-width:100%;">
     </a>
     <a href="https://miniprofile.vikash.ch/" rel="nofollow">
-        <img src="https://img.shields.io/badge/-Website:%20https://vikash.ch/-f5f5f5?style=for-the-badge&amp;labelColor=f5f5f5" alt="LinkedIn" style="max-width:100%;">
+        <img src="https://img.shields.io/badge/-Website:%20https://miniprofile.vikash.ch/-f5f5f5?style=for-the-badge&amp;labelColor=f5f5f5" alt="Miniprofile" style="max-width:100%;">
     </a>
     <a href="https://www.instagram.com/vikichand" rel="nofollow">
         <img src="https://img.shields.io/badge/-Instagram-f5f5f5?style=for-the-badge&amp;labelColor=f5f5f5&amp;logo=Instagram" alt="Instagram"
@@ -58,23 +58,36 @@
     <a href="https://twitter.com/takeiteasyvik" rel="nofollow">
         <img src="https://img.shields.io/badge/-Twitter-f5f5f5?style=for-the-badge&amp;labelColor=f5f5f5&amp;logo=Twitter&amp;logoColor=1C9DEB" alt="Twitter" style="max-width:100%;">
     </a>
-    <a href="https://www.facebook.com/viki.chand" rel="nofollow">
-        <img src="https://img.shields.io/badge/-Facebook-f5f5f5?style=for-the-badge&amp;labelColor=f5f5f5&amp;logo=Facebook&amp;logoColor=1195F5" alt="Facebook" style="max-width:100%;">
-    </a>
 </p>
 
 <!-- TODO: Add latest work link - Vikash -->
 
+Not your typical nerd.
+
+I quite passionately introduce myself as a Full-Stack Creative Software Engineer, passionate about creative Coding, Data Science, Machine Learning, and AI with an enthusiastic student-minded eagerness, specializing particularly in JavaScript, Python, Machine Learning, and Creative Coding.
+
+I enjoy having the freedom of exploring and learning new technologies, which allows me the advantage of a T-Shaped skillset.
+
+To give a little background, I have over 7 years of experience in experimenting, learning, and growing in the software, engineering, and creative space. Add 2 more years to make it 9 if you count my early days of game modding and web development tutorials on YouTube! 😂
+
+Conclusively, I have experience in designing and developing enterprise-level full-stack web, mobile, and desktop applications using a wide range of technologies including but not limited to:
+
+🥷 JavaScript | Python | React | Next.js | Flask | AWS | Angular | TypeScript | React Native | Flutter | Node | Express | Redux | jQuery | PHP | WebGL | Three.js | C# | .NET | C++ | SQL | Postgres | Firebase | Superbase | MongoDB | NoSQL | Web3 | GitHub and more. 
+
+In my previous roles, I have also led solution design, research and development, project management, agile project planning, and scrum master duties. Additionally, I have experience in integrating Data Analytics | Machine Learning | AI | Cloud Computing | and CI/CD solutions to enhance software performance and user experience, as well as integrating internet payment gateways to enable online transactions.
+
+“Quality is never an accident. It is always the result of intelligent effort. There must be the will to produce a superior thing.” – John Ruskin
+
 -   💎 Currently trying to find time to learn more and work on
     -   Full-Stack
+        -   Software Engineering
         -   JavaScript
         -   Python
         -   Machine Learning
         -   AI
-        -   and Flutter projects
+        -   and Creative Coding
     -   and contribute more to open source, so stay tuned!
 -   ⚡ Fun facts:
-    -   I play games and try going to the GYM often 🤭
     -   I like my beers cold 🍺 and the whiskey old 🥃
 
 ### <a href="#"><img src="./assets/images/flash.gif" width="25" alt="Hi"></a> 𝚃𝚘𝚙 𝚃𝚘𝚘𝚕𝚜 & 𝚃𝚎𝚌𝚑𝚗𝚘𝚕𝚘𝚐𝚒𝚎𝚜:
@@ -89,10 +102,10 @@
         <img src="https://img.shields.io/badge/-Python-f5f5f5?style=for-the-badge&amp;labelColor=black&amp;logo=Python&amp;logoColor=f5f5f5" alt="Python" style="max-width:100%;">
     </a>
     <a href="https://vikash.ch/">
-        <img src="https://img.shields.io/badge/-Flutter-075b9a?style=for-the-badge&amp;labelColor=black&amp;logo=Flutter&amp;logoColor=075b9a" alt="Flutter" style="max-width:100%;">
+        <img src="https://img.shields.io/badge/-React-61dafb?style=for-the-badge&amp;labelColor=black&amp;logo=React&amp;logoColor=61dafb" alt="React" style="max-width:100%;">
     </a>
     <a href="https://vikash.ch/">
-        <img src="https://img.shields.io/badge/-React-61dafb?style=for-the-badge&amp;labelColor=black&amp;logo=React&amp;logoColor=61dafb" alt="React" style="max-width:100%;">
+        <img src="https://img.shields.io/badge/-Flutter-075b9a?style=for-the-badge&amp;labelColor=black&amp;logo=Flutter&amp;logoColor=075b9a" alt="Flutter" style="max-width:100%;">
     </a>
     <a href="https://vikash.ch/">
         <img src="https://img.shields.io/badge/-TensorFlow-F88C00?style=for-the-badge&amp;labelColor=black&amp;logo=TensorFlow&amp;logoColor=F88C00" alt="TensorFlow" style="max-width:100%;">
