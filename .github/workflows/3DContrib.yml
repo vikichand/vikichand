@@ -1,0 +1,25 @@
+name: 3DContrib
+
+on:
+  schedule:
+    - cron: "* */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: Generate-3DContrib
+    steps:
+      - uses: actions/checkout@v2
+      - uses: yoshi389111/github-profile-3d-contrib@0.5.0
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+          MAX_REPOS: 250
+      - name: Commit & Push
+        run: |
+          git config user.name ${{ github.repository_owner }}
+          git config user.email vikichand@vikash.ch
+          git add -A .
+          git commit -m "Updated 3D Contrib❗"
+          git push

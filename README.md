@@ -42,6 +42,19 @@
     </a>
 </p>
 
+<p align="center">
+    <a href="https://github-readme-activity-graph.cyclic.app/graph?username=vikichand&bg_color=000000&color=ffffff&line=ffd700&point=ffffff&area=true&hide_border=true" title="Activity Graph">
+        <img src="https://github-readme-activity-graph.cyclic.app/graph?username=vikichand&bg_color=000000&color=ffffff&line=ffd700&point=ffffff&area=true&hide_border=true" alt="Activity Graph" width="40%" />
+    </a>
+    <a href="./profile-3d-contrib/profile-night-rainbow.svg" title="Activity Graph">
+        <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="Activity Graph" width="40%" />
+    </a>
+</p>
+
+<p align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/vikichand/vikichand/snakeAsset/github-contribution-grid-snake.svg"/>
+</p>
+
 ### <a href="#"><img src="./assets/images/flash.gif" width="25" alt="Hi"></a> 𝙵𝚘𝚕𝚕𝚘𝚠 𝙼𝚎:
 
 <p align="center">
@@ -62,7 +75,7 @@
 
 <!-- TODO: Add latest work link - Vikash -->
 
-Not your typical nerd.
+Not your typical nerd 🧠😈
 
 I quite passionately introduce myself as a Full-Stack Creative Software Engineer, passionate about creative Coding, Data Science, Machine Learning, and AI with an enthusiastic student-minded eagerness, specializing particularly in JavaScript, Python, Machine Learning, and Creative Coding.
 
@@ -633,7 +646,7 @@ _Profile stats_
 
 ### ➜ Bizness <a href="#"><img src="./assets/images/flash.gif" width="50" alt="Hi"></a>
 
--   📑 [My Resume / CV](./resume/VikashChand_resume.pdf) _updated [15/05/2022]_
+-   📑 [My Resume / CV](./resume/VikashChand_resume.pdf) _updated [25/04/2023]_
 
 <p align="right">
     <a href="#">
