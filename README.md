@@ -675,3 +675,10 @@ _Stay focused!_
 <!--
 ![vikichand's github stats](https://github-readme-stats.vercel.app/api?username=vikichand&count_private=true&theme=dracula&hide=contribs,prs)
 -->
+
+<!--
+#
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+-->
