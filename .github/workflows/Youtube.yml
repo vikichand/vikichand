@@ -16,4 +16,4 @@ jobs:
         with:
           comment_tag_name: "YouTube"
           commit_message: "Updated readme with the latests from the YouTube Playlist"
-          feed_list: "https://www.youtube.com/playlist?list=PLMudeGlwa-0X5f40_xx5GmRj0FDXn4vGu"
+          feed_list: "https://youtu.be/ju3z2ZQO0MY?list=PLyjnPme2XKggz70Bmr9BrZzQ_CdUdyo8R"
