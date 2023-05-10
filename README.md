@@ -35,25 +35,21 @@
 
 <p align="center">
     <a href="https://skyline.github.com/vikichand/2020" title="2020 GitHub Skyline">
-        <img src="https://skyline.github.com/vikichand/2020.png" alt="2020 GitHub Skyline" width="40%" />
+        <img src="https://skyline.github.com/vikichand/2020.png" alt="2020 GitHub Skyline" width="45%" />
     </a>
     <a href="https://skyline.github.com/vikichand/2021" title="2021 GitHub Skyline">
-        <img src="https://skyline.github.com/vikichand/2021.png" alt="2021 GitHub Skyline" width="40%" />
+        <img src="https://skyline.github.com/vikichand/2021.png" alt="2021 GitHub Skyline" width="45%" />
     </a>
 </p>
 
 <p align="center">
-    <a href="https://github-readme-activity-graph.cyclic.app/graph?username=vikichand&bg_color=000000&color=ffffff&line=ffd700&point=ffffff&area=true&hide_border=true" title="Activity Graph">
-        <img src="https://github-readme-activity-graph.cyclic.app/graph?username=vikichand&bg_color=000000&color=ffffff&line=ffd700&point=ffffff&area=true&hide_border=true" alt="Activity Graph" width="40%" />
+    <a href="./profile-3d-contrib/profile-night-rainbow.svg" title="Activity Graph">
+        <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="Activity Graph" width="100%" />
     </a>
     <br />
-    <a href="./profile-3d-contrib/profile-night-rainbow.svg" title="Activity Graph">
-        <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="Activity Graph" width="40%" />
+    <a href="https://github-readme-activity-graph.cyclic.app/graph?username=vikichand&bg_color=000000&color=ffffff&line=ffd700&point=ffffff&area=true&hide_border=true" title="Activity Graph">
+        <img src="https://github-readme-activity-graph.cyclic.app/graph?username=vikichand&bg_color=000000&color=ffffff&line=ffd700&point=ffffff&area=true&hide_border=true" alt="Activity Graph" width="100%" />
     </a>
-</p>
-
-<p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/vikichand/vikichand/snakeAsset/github-contribution-grid-snake.svg"/>
 </p>
 
 ### <a href="#"><img src="./assets/images/flash.gif" width="25" alt="Hi"></a> 𝙵𝚘𝚕𝚕𝚘𝚠 𝙼𝚎:
@@ -677,9 +673,6 @@ _Stay focused!_
 ![vikichand's github stats](https://github-readme-stats.vercel.app/api?username=vikichand&count_private=true&theme=dracula&hide=contribs,prs)
 -->
 
-<!--
-#
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
--->
+<p align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/vikichand/vikichand/snakeAsset/github-contribution-grid-snake.svg"/>
+</p>
