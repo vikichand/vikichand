@@ -46,6 +46,7 @@
     <a href="https://github-readme-activity-graph.cyclic.app/graph?username=vikichand&bg_color=000000&color=ffffff&line=ffd700&point=ffffff&area=true&hide_border=true" title="Activity Graph">
         <img src="https://github-readme-activity-graph.cyclic.app/graph?username=vikichand&bg_color=000000&color=ffffff&line=ffd700&point=ffffff&area=true&hide_border=true" alt="Activity Graph" width="40%" />
     </a>
+    <br />
     <a href="./profile-3d-contrib/profile-night-rainbow.svg" title="Activity Graph">
         <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="Activity Graph" width="40%" />
     </a>
