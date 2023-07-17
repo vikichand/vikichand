@@ -673,6 +673,8 @@ _Stay focused!_
 ![vikichand's github stats](https://github-readme-stats.vercel.app/api?username=vikichand&count_private=true&theme=dracula&hide=contribs,prs)
 -->
 
+<!--
 <p align="center">
   <img width="100%" src="https://raw.githubusercontent.com/vikichand/vikichand/snakeAsset/github-contribution-grid-snake.svg"/>
 </p>
+-->
