@@ -12,7 +12,7 @@
 
 # 𝙷𝚒, 𝙸'𝚖 𝚅𝚒𝚔𝚊𝚜𝚑 <a href="#"><img src="./assets/images/flash.gif" width="50" alt="Hi"></a>
 
-### 𝙵𝚞𝚕𝚕-𝚂𝚝𝚊𝚌𝚔 𝙲𝚛𝚎𝚊𝚝𝚒𝚟𝚎 𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛 | 𝙿𝚊𝚜𝚜𝚒𝚘𝚗𝚊𝚝𝚎 𝚊𝚋𝚘𝚞𝚝 𝙼𝚊𝚌𝚑𝚒𝚗𝚎 𝙻𝚎𝚊𝚛𝚗𝚒𝚗𝚐, 𝙳𝚊𝚝𝚊 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 𝚊𝚗𝚍 𝙲𝚛𝚎𝚊𝚝𝚒𝚟𝚎 𝙲𝚘𝚍𝚒𝚗𝚐.
+### 𝙵𝚞𝚕𝚕-𝚂𝚝𝚊𝚌𝚔 𝙲𝚛𝚎𝚊𝚝𝚒𝚟𝚎 𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛 | 𝙿𝚊𝚜𝚜𝚒𝚘𝚗𝚊𝚝𝚎 𝚊𝚋𝚘𝚞𝚝 𝙼𝚊𝚌𝚑𝚒𝚗𝚎 𝙻𝚎𝚊𝚛𝚗𝚒𝚗𝚐, 𝙰𝙸, 𝚊𝚗𝚍 𝙲𝚛𝚎𝚊𝚝𝚒𝚟𝚎 𝙲𝚘𝚍𝚒𝚗𝚐.
 
 <a href="#"><img src="./assets/images/flash.gif" width="25" alt="Hi"></a> Trying to simultaneously learn heaps and cook up cool projects.
 
@@ -90,12 +90,10 @@ In my previous roles, I have also led solution design, research and development,
 
 -   💎 Currently trying to find time to learn more and work on
     -   Full-Stack
-        -   Software Engineering
-        -   JavaScript
-        -   Python
+        -   Creative Software Engineering
         -   Machine Learning
         -   AI
-        -   and Creative Coding
+        -   and Creative Coding projects
     -   and contribute more to open source, so stay tuned!
 -   ⚡ Fun facts:
     -   I like my beers cold 🍺 and the whiskey old 🥃
