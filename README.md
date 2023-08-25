@@ -83,7 +83,9 @@ To give a little background, I've been diving headfirst into the tech industry f
 Proficient in a broad tech stack including but not limited to:
 
     🥷 
-    - JavaScript | Python | React | Next.js | Flask | AWS | Angular | TypeScript | React Native | Flutter | NodeJS | Express | Redux | jQuery | PHP | GSAP | Three.js | WebGL | C# | .NET | C++ | SQL | Postgres | Firebase | Superbase | MongoDB | GitHub | Vercel | CI/CD | Terraform | Web3
+    - JavaScript | Python | React | Next.js | Flask | AWS | Angular | TypeScript | React Native | Flutter | NodeJS | 
+      Express | Redux | jQuery | PHP | GSAP | Three.js | WebGL | C# | .NET | C++ | SQL | Postgres | Firebase | Superbase | 
+      MongoDB | GitHub | Vercel | CI/CD | Terraform | Web3
     - UI/UX Design | Adobe XD | Adobe Photoshop | Figma | Unity | Unreal Engine | Game Development | FL Studio | Music Production
 
 Brian Herbert once said, "The capacity to learn is a gift; the ability to learn is a skill; the willingness to learn is a choice." I couldn't agree more.
