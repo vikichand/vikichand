@@ -119,9 +119,9 @@ Brian Herbert once said, "The capacity to learn is a gift; the ability to learn 
     <a href="https://vikash.ch/">
         <img src="https://img.shields.io/badge/-React-61dafb?style=for-the-badge&amp;labelColor=black&amp;logo=React&amp;logoColor=61dafb" alt="React" style="max-width:100%;">
     </a>
-    <a href="https://vikash.ch/">
+    <!-- <a href="https://vikash.ch/">
         <img src="https://img.shields.io/badge/-Flutter-075b9a?style=for-the-badge&amp;labelColor=black&amp;logo=Flutter&amp;logoColor=075b9a" alt="Flutter" style="max-width:100%;">
-    </a>
+    </a> -->
     <a href="https://vikash.ch/">
         <img src="https://img.shields.io/badge/-TensorFlow-F88C00?style=for-the-badge&amp;labelColor=black&amp;logo=TensorFlow&amp;logoColor=F88C00" alt="TensorFlow" style="max-width:100%;">
     </a>
