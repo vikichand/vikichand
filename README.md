@@ -33,6 +33,7 @@
 
 <!-- GitHub Skyline image: https://skyline.github.com/vikichand/2021.png -->
 
+<!-- 
 <p align="center">
     <a href="https://skyline.github.com/vikichand/2020" title="2020 GitHub Skyline">
         <img src="https://skyline.github.com/vikichand/2020.png" alt="2020 GitHub Skyline" width="45%" />
@@ -41,14 +42,15 @@
         <img src="https://skyline.github.com/vikichand/2021.png" alt="2021 GitHub Skyline" width="45%" />
     </a>
 </p>
+-->
 
 <p align="center">
     <a href="./profile-3d-contrib/profile-night-rainbow.svg" title="Activity Graph">
         <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="Activity Graph" width="100%" />
     </a>
     <br />
-    <a href="https://github-readme-activity-graph.cyclic.app/graph?username=vikichand&bg_color=000000&color=ffffff&line=ffd700&point=ffffff&area=true&hide_border=true" title="Activity Graph">
-        <img src="https://github-readme-activity-graph.cyclic.app/graph?username=vikichand&bg_color=000000&color=ffffff&line=ffd700&point=ffffff&area=true&hide_border=true" alt="Activity Graph" width="100%" />
+    <a href="https://github-readme-activity-graph.vercel.app/graph?username=vikichand&bg_color=00000f&area_color=ffca3880&color=ffffff&line=ffc837&point=ffffff&area=true&hide_border=true" title="Activity Graph">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=vikichand&bg_color=00000f&area_color=ffca3880&color=ffffff&line=ffc837&point=ffffff&area=true&hide_border=true" alt="Activity Graph" width="100%" />
     </a>
 </p>
 
@@ -646,7 +648,7 @@ _Profile stats_
 
 ### ➜ Bizness <a href="#"><img src="./assets/images/flash.gif" width="50" alt="Hi"></a>
 
--   📑 [My Resume / CV](https://links.vikash.ch) _updated [25/04/2023]_
+-   📑 [My Resume / CV](https://links.vikash.ch) _updated [2023]_
 
 <p align="right">
     <a href="#">
