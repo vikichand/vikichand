@@ -93,9 +93,17 @@ Proficient in a broad tech stack including but not limited to:
     - UI/UX Design | Adobe XD | Adobe Photoshop | Figma | Unity | Unreal Engine | Game Development | FL Studio |
       Music Production
 
-Brian Herbert once said, "The capacity to learn is a gift; the ability to learn is a skill; the willingness to learn is a choice." I couldn't agree more.
+---
 
-#learneveryday
+Brian Herbert once said, 
+
+### "The capacity to learn is a gift; the ability to learn is a skill; the willingness to learn is a choice." 
+
+I couldn't agree more! 
+
+#learneveryday 🚀
+
+---
 
 -   💎 Currently trying to find time to learn more and work on
     -   Full-Stack
