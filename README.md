@@ -33,7 +33,7 @@
 
 <!-- GitHub Skyline image: https://skyline.github.com/vikichand/2021.png -->
 
-<!-- 
+<!--
 <p align="center">
     <a href="https://skyline.github.com/vikichand/2020" title="2020 GitHub Skyline">
         <img src="https://skyline.github.com/vikichand/2020.png" alt="2020 GitHub Skyline" width="45%" />
@@ -80,17 +80,17 @@ I quite passionately introduce myself as a Full-Stack Creative Software Engineer
 
 I enjoy having the freedom of exploring and learning new technologies, which allows me the advantage of a T-Shaped skill set.
 
-To give a little background, I've been diving headfirst into the tech industry for over 10 years, and while my keyboard has thankfully stayed clean, my hands have gotten quite dirty learning, exploring, and engineering cool stuff prizing the agility of a T-shaped skill set. 
+To give a little background, I've been diving headfirst into the tech industry for over 10 years, and while my keyboard has thankfully stayed clean, my hands have gotten quite dirty learning, exploring, and engineering cool stuff prizing the agility of a T-shaped skill set.
 
-But professionally, a dynamic Full-Stack Creative Software Engineer boasting over 7 years of comprehensive hands-on experience in architecting, developing, and deploying enterprise-level applications across various platforms and industries. I've spearheaded solution design initiatives, significantly contributing to revenue growth, driving user engagement, and optimizing software performance. My expertise encompasses crafting state-of-the-art interactive UIs, integrating advanced Machine Learning and AI algorithms, enhancing user experiences, and streamlining delivery times. I've adeptly managed cross-functional teams in both on-site and remote environments, emphasizing CI/CD processes and rigorous testing protocols to consistently exceed business objectives. 
+But professionally, a dynamic Full-Stack Creative Software Engineer boasting over 7 years of comprehensive hands-on experience in architecting, developing, and deploying enterprise-level applications across various platforms and industries. I've spearheaded solution design initiatives, significantly contributing to revenue growth, driving user engagement, and optimizing software performance. My expertise encompasses crafting state-of-the-art interactive UIs, integrating advanced Machine Learning and AI algorithms, enhancing user experiences, and streamlining delivery times. I've adeptly managed cross-functional teams in both on-site and remote environments, emphasizing CI/CD processes and rigorous testing protocols to consistently exceed business objectives.
 
 Proficient in a broad tech stack including but not limited to:
 
-    🥷 
-    - JavaScript | Python | React | Next.js | Flask | AWS | Angular | TypeScript | React Native | Flutter | NodeJS | 
-      Express | Redux | jQuery | PHP | GSAP | Three.js | WebGL | C# | .NET | C++ | SQL | Postgres | Firebase | Superbase | 
+    🥷
+    - JavaScript | Python | React | Next.js | Flask | AWS | Angular | TypeScript | React Native | Flutter | NodeJS |
+      Express | Redux | jQuery | PHP | GSAP | Three.js | WebGL | C# | .NET | C++ | SQL | Postgres | Firebase | Superbase |
       MongoDB | GitHub | Vercel | CI/CD | Terraform | Web3
-    - UI/UX Design | Adobe XD | Adobe Photoshop | Figma | Unity | Unreal Engine | Game Development | FL Studio | 
+    - UI/UX Design | Adobe XD | Adobe Photoshop | Figma | Unity | Unreal Engine | Game Development | FL Studio |
       Music Production
 
 Brian Herbert once said, "The capacity to learn is a gift; the ability to learn is a skill; the willingness to learn is a choice." I couldn't agree more.
@@ -721,6 +721,7 @@ Brian Herbert once said, "The capacity to learn is a gift; the ability to learn 
 _Profile stats_
 
 <!-- [![visitors](https://visitor-badge.glitch.me/badge?page_id=vikichand)](/) -->
+
 [![Github](https://img.shields.io/github/followers/vikichand?label=Follow&style=social)](https://github.com/vikichand)
 
 <!-- ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=vikichand&theme=github) -->
@@ -729,7 +730,7 @@ _Profile stats_
 
 ### ➜ Bizness <a href="#"><img src="./assets/images/flash.gif" width="50" alt="Hi"></a>
 
--   📑 [My Resume / CV](https://links.vikash.ch) _updated [2023]_
+-   <a href="https://links.vikash.ch" target="_blank">📑 My Resume / CV</a> _updated [2023]_
 
 <p align="right">
     <a href="#">
@@ -746,11 +747,12 @@ _Profile stats_
 _Latest 5 from a playlist I'm currently listening to for those late night coding sessions_
 
 <!-- YouTube:START -->
-- [far away - lofi hip hop type beat [FREE FOR PROFIT USE]](https://www.youtube.com/watch?v=b4Oe83aB8Fo)
-- [lost - lofi hip hop type beat [FREE FOR PROFIT USE]](https://www.youtube.com/watch?v=0BcYVfvRBNQ)
-- [Lost Summer - Post Malone/Travis Scott Type Beat &lpar;FREE FOR PROFIT USE&rpar;](https://www.youtube.com/watch?v=lchn3T2aYzU)
-- [Possessed - dark rap/hip hop beat &lpar;FREE FOR PROFIT USE&rpar;](https://www.youtube.com/watch?v=PuWdyQvwsBk)
-- [manic - alt rock type rap beat / Prod. Riddiman x Joe Leytrick &lpar;FREE FOR PROFIT USE&rpar;](https://www.youtube.com/watch?v=3I3DonXtEqA)
+
+-   [far away - lofi hip hop type beat [FREE FOR PROFIT USE]](https://www.youtube.com/watch?v=b4Oe83aB8Fo)
+-   [lost - lofi hip hop type beat [FREE FOR PROFIT USE]](https://www.youtube.com/watch?v=0BcYVfvRBNQ)
+-   [Lost Summer - Post Malone/Travis Scott Type Beat &lpar;FREE FOR PROFIT USE&rpar;](https://www.youtube.com/watch?v=lchn3T2aYzU)
+-   [Possessed - dark rap/hip hop beat &lpar;FREE FOR PROFIT USE&rpar;](https://www.youtube.com/watch?v=PuWdyQvwsBk)
+-   [manic - alt rock type rap beat / Prod. Riddiman x Joe Leytrick &lpar;FREE FOR PROFIT USE&rpar;](https://www.youtube.com/watch?v=3I3DonXtEqA)
 <!-- YouTube:END -->
 
 _Stay focused!_
