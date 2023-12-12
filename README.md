@@ -78,9 +78,11 @@ Not your typical nerd 🧠😈
 
 I quite passionately introduce myself as a Full-Stack Creative Software Engineer, passionate about Machine Learning, AI, and Creative Coding, with an enthusiastic student-minded eagerness.
 
-I enjoy having the freedom of exploring and learning new technologies, which allows me the advantage of a T-Shaped skillset.
+I enjoy having the freedom of exploring and learning new technologies, which allows me the advantage of a T-Shaped skill set.
 
-To give a little background, I've been diving headfirst into the tech industry for over 10 years, and while my keyboard has thankfully stayed clean, my hands have gotten quite dirty learning, exploring, and engineering cool stuff. But professionally, a dynamic Full-Stack Software & Creative Engineer boasting over 7 years of comprehensive hands-on experience in architecting, developing, and deploying enterprise-level applications across various platforms and industries. 
+To give a little background, I've been diving headfirst into the tech industry for over 10 years, and while my keyboard has thankfully stayed clean, my hands have gotten quite dirty learning, exploring, and engineering cool stuff prizing the agility of a T-shaped skill set. 
+
+But professionally, a dynamic Full-Stack Creative Software Engineer boasting over 7 years of comprehensive hands-on experience in architecting, developing, and deploying enterprise-level applications across various platforms and industries. I've spearheaded solution design initiatives, significantly contributing to revenue growth, driving user engagement, and optimizing software performance. My expertise encompasses crafting state-of-the-art interactive UIs, integrating advanced Machine Learning and AI algorithms, enhancing user experiences, and streamlining delivery times. I've adeptly managed cross-functional teams in both on-site and remote environments, emphasizing CI/CD processes and rigorous testing protocols to consistently exceed business objectives. 
 
 Proficient in a broad tech stack including but not limited to:
 
@@ -157,265 +159,365 @@ Brian Herbert once said, "The capacity to learn is a gift; the ability to learn 
         <br /><br />
         Programming Languages<br />
         <a
-            href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+            href="https://www.w3schools.com/js/"
             target="_blank"
         >
             <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+                src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg"
                 alt="javascript"
+                height="30"
+            />
+        </a>
+        <a
+            href="https://www.typescriptlang.org/"
+            target="_blank"
+        >
+            <img
+                src="https://cdn.worldvectorlogo.com/logos/typescript.svg"
+                alt="typescript"
                 height="30"
             />
         </a>
         <a href="https://www.python.org" target="_blank">
             <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+                src="https://cdn.worldvectorlogo.com/logos/python-5.svg"
                 alt="python"
-                height="30"
-            />
-        </a>
-        <a href="https://dart.dev" target="_blank">
-            <img
-                src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg"
-                alt="dart"
                 height="30"
             />
         </a>
         <a href="https://www.w3schools.com/cs/" target="_blank">
             <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
-                alt="csharp"
+                src="https://cdn.worldvectorlogo.com/logos/c--4.svg"
+                alt="c#"
+                height="30"
+            />
+        </a>
+        <a href="https://www.w3schools.com/cpp/" target="_blank">
+            <img
+                src="https://cdn.worldvectorlogo.com/logos/c.svg"
+                alt="c++"
                 height="30"
             />
         </a>
         <a href="https://www.php.net" target="_blank">
             <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"
+                src="https://cdn.worldvectorlogo.com/logos/php-1.svg"
                 alt="php"
                 height="30"
             />
         </a>
+        <a href="https://dart.dev" target="_blank">
+            <img
+                src="https://cdn.worldvectorlogo.com/logos/dart.svg"
+                alt="dart"
+                height="30"
+            />
+        </a>
+        <a href="https://go.dev/" target="_blank">
+            <img
+                src="https://cdn.worldvectorlogo.com/logos/go-8.svg"
+                alt="golang"
+                height="30"
+            />
+        </a>
         <br /><br />
-        Frontend Development<br />
-        <a href="https://www.w3.org/html/" target="_blank">
-            <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-                alt="html5"
-                height="30"
-            />
-        </a>
-        <a href="https://www.w3schools.com/css/" target="_blank">
-            <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-                alt="css3"
-                height="30"
-            />
-        </a>
+        Web Development<br />
         <a href="https://reactjs.org/" target="_blank">
             <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+                src="https://cdn.worldvectorlogo.com/logos/react-2.svg"
                 alt="react"
                 height="30"
             />
         </a>
-        <a href="https://vuejs.org/" target="_blank">
+        <a href="https://nextjs.org/" target="_blank">
             <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"
-                alt="vuejs"
-                height="30"
-            />
-        </a>
-        <a href="https://sass-lang.com" target="_blank">
-            <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
-                alt="sass"
-                height="30"
-            />
-        </a>
-        <a href="https://tailwindcss.com/" target="_blank">
-            <img
-                src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
-                alt="tailwind"
-                height="30"
-            />
-        </a>
-        <a href="https://bulma.io/" target="_blank">
-            <img
-                src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg"
-                alt="bulma"
-                height="30"
-            />
-        </a>
-        <a href="https://getbootstrap.com" target="_blank">
-            <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-                alt="bootstrap"
+                src="https://cdn.worldvectorlogo.com/logos/next-js.svg"
+                alt="next"
                 height="30"
             />
         </a>
         <a href="https://angular.io" target="_blank">
             <img
-                src="https://miro.medium.com/proxy/1*nWtdFBcmwNz0cRB8YidO0w.png"
+                src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg"
                 alt="angular"
                 height="30"
             />
         </a>
-        <a href="https://webpack.js.org" target="_blank">
+        <a href="https://tailwindcss.com/" target="_blank">
             <img
-                src="https://raw.githubusercontent.com/webpack/media/master/logo/logo-on-white-bg.png"
-                alt="webpack"
-                height="45"
+                src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg"
+                alt="tailwind"
+                height="30"
             />
         </a>
-        <br /><br />
-        Backend Development<br />
+        <a href="https://sass-lang.com" target="_blank">
+            <img
+                src="https://cdn.worldvectorlogo.com/logos/sass-1.svg"
+                alt="sass"
+                height="30"
+            />
+        </a>
+        <a href="https://threejs.org/" target="_blank">
+            <img
+                src="https://cdn.worldvectorlogo.com/logos/threejs-1.svg"
+                alt="threejs"
+                height="30"
+            />
+        </a>
+        <a href="https://www.framer.com/motion/" target="_blank">
+            <img
+                src="https://cdn.worldvectorlogo.com/logos/framer-motion.svg"
+                alt="framermotion"
+                height="30"
+            />
+        </a>
         <a href="https://nodejs.org" target="_blank">
             <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
+                src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg"
                 alt="nodejs"
-                width="50"
-                height="50"
-            />
-        </a>
-        <a href="https://expressjs.com" target="_blank">
-            <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
-                alt="express"
-                height="50"
-            />
-        </a>
-        <a href="https://graphql.org" target="_blank">
-            <img
-                src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg"
-                alt="graphql"
                 height="30"
             />
         </a>
-        <a href="https://www.nginx.com" target="_blank">
+        <a href="https://vitejs.dev/" target="_blank">
             <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg"
-                alt="nginx"
-                height="40"
-            />
-        </a>
-        <br /><br />
-        Mobile Development<br />
-        <a href="https://flutter.dev" target="_blank">
-            <img
-                src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"
-                alt="flutter"
+                src="https://cdn.worldvectorlogo.com/logos/vitejs.svg"
+                alt="vitejs"
                 height="30"
             />
         </a>
-        <a href="https://reactnative.dev/" target="_blank">
+        <a href="https://dotnet.microsoft.com/" target="_blank">
             <img
-                src="https://reactnative.dev/img/header_logo.svg"
-                alt="reactnative"
+                src="https://cdn.worldvectorlogo.com/logos/dot-net-core-7.svg"
+                alt="dotnet"
                 height="30"
             />
         </a>
-        <a href="https://ionicframework.com" target="_blank">
+        <a href="https://laravel.com/" target="_blank">
             <img
-                src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg"
-                alt="ionic"
-                width="50"
+                src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg"
+                alt="laravel"
                 height="30"
             />
         </a>
-        <br /><br />
-        Static Site Generators<br />
-        <a href="https://nextjs.org/" target="_blank">
+        <br />
+        <a href="https://jquery.com/" target="_blank">
             <img
-                src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg"
-                alt="nextjs"
+                src="https://cdn.worldvectorlogo.com/logos/jquery-4.svg"
+                alt="jquery"
+                height="30"
+            />
+        </a>
+        <a href="https://vuejs.org/" target="_blank">
+            <img
+                src="https://cdn.worldvectorlogo.com/logos/vue-9.svg"
+                alt="vuejs"
+                height="30"
+            />
+        </a>
+        <a href="https://getbootstrap.com" target="_blank">
+            <img
+                src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg"
+                alt="bootstrap"
+                height="30"
+            />
+        </a>
+        <a href="https://bulma.io/" target="_blank">
+            <img
+                src="https://cdn.worldvectorlogo.com/logos/bulma.svg"
+                alt="bulma"
                 height="30"
             />
         </a>
         <a href="https://www.gatsbyjs.com/" target="_blank">
             <img
-                src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg"
+                src="https://cdn.worldvectorlogo.com/logos/gatsby.svg"
                 alt="gatsby"
                 height="30"
             />
         </a>
         <a href="https://nuxtjs.org/" target="_blank">
             <img
-                src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg"
+                src="https://cdn.worldvectorlogo.com/logos/nuxt-2.svg"
                 alt="nuxtjs"
                 height="30"
             />
         </a>
-        <br /><br />
-        Frameworks<br />
-        <a href="https://laravel.com/" target="_blank">
+        <a href="https://graphql.org" target="_blank">
             <img
-                src="https://seeklogo.com/images/L/laravel-framework-logo-C10176EC8C-seeklogo.com.png"
-                alt="laravel"
+                src="https://cdn.worldvectorlogo.com/logos/graphql-logo-2.svg"
+                alt="graphql"
                 height="30"
             />
         </a>
+        <a href="https://webpack.js.org" target="_blank">
+            <img
+                src="https://cdn.worldvectorlogo.com/logos/webpack.svg"
+                alt="webpack"
+                height="30"
+            />
+        </a>
+        <a href="https://parceljs.org/" target="_blank">
+            <img
+                src="https://parceljs.org/avatar.ca9fe179.webp"
+                alt="parceljs"
+                height="30"
+            />
+        </a>
+        <a href="https://www.nginx.com" target="_blank">
+            <img
+                src="https://cdn.worldvectorlogo.com/logos/nginx.svg"
+                alt="nginx"
+                height="15"
+            />
+        </a>
+        <br /><br />
+        Mobile Development<br />
+        <a href="https://flutter.dev" target="_blank">
+            <img
+                src="https://cdn.worldvectorlogo.com/logos/flutter.svg"
+                alt="flutter"
+                height="30"
+            />
+        </a>
+        <a href="https://reactnative.dev/" target="_blank">
+            <img
+                src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg"
+                alt="reactnative"
+                height="30"
+            />
+        </a>
+        <a href="https://ionicframework.com" target="_blank">
+            <img
+                src="https://www.vectorlogo.zone/logos/ionicframework/ionicframework-ar21.svg"
+                alt="ionic"
+                height="30"
+            />
+        </a>
+        <br /><br />
+        Desktop Development<br />
         <a href="https://www.electronjs.org" target="_blank">
             <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg"
+                src="https://cdn.worldvectorlogo.com/logos/electron-1.svg"
                 alt="electron"
                 height="30"
             />
         </a>
         <a href="https://dotnet.microsoft.com/" target="_blank">
             <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg"
+                src="https://cdn.worldvectorlogo.com/logos/dot-net-core-7.svg"
                 alt="dotnet"
+                height="30"
+            />
+        </a>
+        <a href="https://tauri.app/" target="_blank">
+            <img
+                src="https://cdn.worldvectorlogo.com/logos/tauri-1.svg"
+                alt="tauri "
+                height="30"
+            />
+        </a>
+        <br /><br />
+        Design<br />
+        <a href="https://www.photoshop.com/en" target="_blank">
+            <img
+                src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-2.svg"
+                alt="photoshop"
+                height="30"
+            />
+        </a>
+        <a href="https://www.figma.com/" target="_blank">
+            <img
+                src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
+                alt="figma"
+                height="30"
+            />
+        </a>
+        <a href="https://www.adobe.com/products/xd.html" target="_blank">
+            <img
+                src="https://cdn.worldvectorlogo.com/logos/adobe-xd-2.svg"
+                alt="xd"
+                height="30"
+            />
+        </a>
+        <a
+            href="https://www.adobe.com/in/products/illustrator.html"
+            target="_blank"
+        >
+            <img
+                src="https://cdn.worldvectorlogo.com/logos/adobe-illustrator-cc-icon.svg"
+                alt="illustrator"
+                height="30"
+            />
+        </a>
+        <a
+            href="https://www.adobe.com/products/photoshop-lightroom.html"
+            target="_blank"
+        >
+            <img
+                src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-lightroom-cc-icon.svg"
+                alt="lightroom"
+                height="30"
+            />
+        </a>
+        <a
+            href="https://www.adobe.com/products/premiere.html"
+            target="_blank"
+        >
+            <img
+                src="https://cdn.worldvectorlogo.com/logos/premiere-pro-cc.svg"
+                alt="premierepro"
+                height="30"
+            />
+        </a>
+        <a href="https://www.blender.org/" target="_blank">
+            <img
+                src="https://cdn.worldvectorlogo.com/logos/blender-2.svg"
+                alt="blender"
                 height="30"
             />
         </a>
         <br /><br />
         Databases<br />
-        <a href="https://www.mongodb.com/" target="_blank">
-            <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-                alt="mongodb"
-                height="30"
-            />
-        </a>
-        <a href="https://mariadb.org/" target="_blank">
-            <img
-                src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg"
-                alt="mariadb"
-                height="30"
-            />
-        </a>
         <a href="https://www.mysql.com/" target="_blank">
             <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
+                src="https://cdn.worldvectorlogo.com/logos/mysql-logo.svg"
                 alt="mysql"
-                height="40"
-            />
-        </a>
-        <a href="https://www.sqlite.org/" target="_blank">
-            <img
-                src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg"
-                alt="sqlite"
                 height="30"
             />
         </a>
         <a href="https://www.postgresql.org" target="_blank">
             <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
+                src="https://cdn.worldvectorlogo.com/logos/postgresql.svg"
                 alt="postgresql"
                 height="30"
             />
         </a>
-        <a href="https://hive.apache.org/" target="_blank">
+        <a href="https://www.mongodb.com/" target="_blank">
             <img
-                src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg"
-                alt="hive"
+                src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-2.svg"
+                alt="mongodb"
+                height="30"
+            />
+        </a>
+        <a href="https://firebase.google.com/" target="_blank">
+            <img
+                src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg"
+                alt="firebase"
+                height="30"
+            />
+        </a>
+        <a href="https://www.sqlite.org/" target="_blank">
+            <img
+                src="https://cdn.worldvectorlogo.com/logos/sqlite.svg"
+                alt="sqlite"
                 height="30"
             />
         </a>
         <br /><br />
-        ML/AI<br />
+        Machine Learning, AI & Data Analytics<br />
         <a href="https://www.tensorflow.org" target="_blank">
             <img
-                src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"
+                src="https://cdn.worldvectorlogo.com/logos/tensorflow-2.svg"
                 alt="tensorflow"
                 height="30"
             />
@@ -427,18 +529,39 @@ Brian Herbert once said, "The capacity to learn is a gift; the ability to learn 
                 height="30"
             />
         </a>
+        <a href="https://openai.com/" target="_blank">
+            <img
+                src="https://cdn.worldvectorlogo.com/logos/openai-wordmark.svg"
+                alt="openai"
+                height="30"
+            />
+        </a>
+        <a href="https://chat.openai.com/" target="_blank">
+            <img
+                src="https://cdn.worldvectorlogo.com/logos/chatgpt-4.svg"
+                alt="chatgpt"
+                height="30"
+            />
+        </a>
+        <a href="https://www.mathworks.com/" target="_blank">
+            <img
+                src="https://cdn.worldvectorlogo.com/logos/matlab.svg"
+                alt="matlab"
+                height="30"
+            />
+        </a>
         <br /><br />
         Data Visualization<br />
         <a href="https://d3js.org/" target="_blank">
             <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg"
+                src="https://cdn.worldvectorlogo.com/logos/d3js.svg"
                 alt="d3js"
                 height="30"
             />
         </a>
         <a href="https://www.chartjs.org" target="_blank">
             <img
-                src="https://www.chartjs.org/media/logo-title.svg"
+                src="https://www.chartjs.org/img/chartjs-logo.svg"
                 alt="chartjs"
                 height="30"
             />
@@ -452,25 +575,75 @@ Brian Herbert once said, "The capacity to learn is a gift; the ability to learn 
                 height="30"
             />
         </a>
+        <a href="https://www.selenium.dev/" target="_blank">
+            <img
+                src="https://cdn.worldvectorlogo.com/logos/selenium-1.svg"
+                alt="selenium"
+                height="30"
+            />
+        </a>
+        <a href="https://jestjs.io/" target="_blank">
+            <img
+                src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-ar21.svg"
+                alt="jest"
+                height="30"
+            />
+        </a>
         <br /><br />
         DevOps<br />
-        <a href="https://www.gnu.org/software/bash/" target="_blank">
+        <a href="https://aws.amazon.com/" target="_blank">
             <img
-                src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg"
+                src="https://cdn.worldvectorlogo.com/logos/aws-2.svg"
                 alt="bash"
                 height="30"
             />
         </a>
+        <a href="https://azure.microsoft.com/en-us" target="_blank">
+            <img
+                src="https://www.unitygroup.com/wp-content/uploads/2023/07/Microsoft_Azure_Logo.svg.png"
+                alt="bash"
+                height="30"
+            />
+        </a>
+        <a href="https://vercel.com/" target="_blank">
+            <img
+                src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Vercel_logo_black.svg/2560px-Vercel_logo_black.svg.png"
+                alt="vercel"
+                height="25"
+            />
+        </a>
+        <a href="https://github.com/" target="_blank">
+            <img
+                src="https://cdn-icons-png.flaticon.com/512/25/25231.png"
+                alt="github"
+                height="30"
+            />
+        </a>
+        <br />
         <a href="https://www.docker.com/" target="_blank">
             <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
+                src="https://cdn.worldvectorlogo.com/logos/docker-3.svg"
                 alt="docker"
+                height="30"
+            />
+        </a>
+        <a href="https://gitlab.com/" target="_blank">
+            <img
+                src="https://cdn.worldvectorlogo.com/logos/gitlab.svg"
+                alt="gitlab"
+                height="30"
+            />
+        </a>
+        <a href="https://firebase.google.com/" target="_blank">
+            <img
+                src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg"
+                alt="firebase"
                 height="30"
             />
         </a>
         <a href="https://cloud.google.com" target="_blank">
             <img
-                src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"
+                src="https://cdn.worldvectorlogo.com/logos/google-cloud-1.svg"
                 alt="gcp"
                 height="30"
             />
@@ -484,31 +657,8 @@ Brian Herbert once said, "The capacity to learn is a gift; the ability to learn 
         </a>
         <a href="https://circleci.com" target="_blank">
             <img
-                src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg"
+                src="https://cdn.worldvectorlogo.com/logos/circleci.svg"
                 alt="circleci"
-                height="30"
-            />
-        </a>
-        <br /><br />
-        Backend as a Service(BaaS)<br />
-        <a href="https://vercel.com/dashboard" target="_blank">
-            <img
-                src="https://raw.githubusercontent.com/delianides/kap-vercel/HEAD/vercel.png"
-                alt="vercel"
-                height="30"
-            />
-        </a>
-        <a href="https://firebase.google.com/" target="_blank">
-            <img
-                src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
-                alt="firebase"
-                height="30"
-            />
-        </a>
-        <a href="https://heroku.com" target="_blank">
-            <img
-                src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg"
-                alt="heroku"
                 height="30"
             />
         </a>
@@ -516,7 +666,7 @@ Brian Herbert once said, "The capacity to learn is a gift; the ability to learn 
         Game Engines<br />
         <a href="https://unity.com/" target="_blank">
             <img
-                src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Unity_Technologies_logo.svg/1024px-Unity_Technologies_logo.svg.png"
+                src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Unity_Technologies_logo.svg/2560px-Unity_Technologies_logo.svg.png"
                 alt="unity"
                 height="30"
             />
@@ -530,105 +680,38 @@ Brian Herbert once said, "The capacity to learn is a gift; the ability to learn 
         </a>
         <br /><br />
         Others<br />
-        <a href="https://www.linux.org/" target="_blank">
+        <a href="https://postman.com" target="_blank">
             <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
+                src="https://cdn.worldvectorlogo.com/logos/postman.svg"
+                alt="postman"
+                height="30"
+            />
+        </a>
+        <a href="https://ubuntu.com/" target="_blank">
+            <img
+                src="https://cdn.worldvectorlogo.com/logos/ubuntu-4.svg"
                 alt="linux"
                 height="30"
             />
         </a>
         <a href="https://git-scm.com/" target="_blank">
             <img
-                src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
+                src="https://cdn.worldvectorlogo.com/logos/git-icon.svg"
                 alt="git"
                 height="30"
             />
         </a>
         <a href="https://www.arduino.cc/" target="_blank">
             <img
-                src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg"
+                src="https://cdn.worldvectorlogo.com/logos/arduino.svg"
                 alt="arduino"
                 height="30"
             />
         </a>
-        <br /><br />
-        Softwares<br />
-        <a href="https://www.photoshop.com/en" target="_blank">
+        <a href="https://www.arduino.cc/" target="_blank">
             <img
-                src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1200px-Adobe_Photoshop_CC_icon.svg.png"
-                alt="photoshop"
-                height="30"
-            />
-        </a>
-        <a
-            href="https://www.adobe.com/products/photoshop-lightroom.html"
-            target="_blank"
-        >
-            <img
-                src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Adobe_Photoshop_Lightroom_Classic_CC_icon.svg/1200px-Adobe_Photoshop_Lightroom_Classic_CC_icon.svg.png"
-                alt="lightroom"
-                height="30"
-            />
-        </a>
-        <a
-            href="https://www.adobe.com/in/products/illustrator.html"
-            target="_blank"
-        >
-            <img
-                src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg"
-                alt="illustrator"
-                height="30"
-            />
-        </a>
-        <a
-            href="https://www.adobe.com/products/premiere.html"
-            target="_blank"
-        >
-            <img
-                src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Adobe_Premiere_Pro_Logo.svg/1200px-Adobe_Premiere_Pro_Logo.svg.png"
-                alt="illustrator"
-                height="30"
-            />
-        </a>
-        <a href="https://www.adobe.com/products/xd.html" target="_blank">
-            <img
-                src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg"
-                alt="xd"
-                height="30"
-            />
-        </a>
-        <a href="https://www.figma.com/" target="_blank">
-            <img
-                src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
-                alt="figma"
-                height="30"
-            />
-        </a>
-        <a href="https://www.framer.com/" target="_blank">
-            <img
-                src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg"
-                alt="framer"
-                height="30"
-            />
-        </a>
-        <a href="https://www.blender.org/" target="_blank">
-            <img
-                src="https://download.blender.org/branding/community/blender_community_badge_white.svg"
-                alt="blender"
-                height="30"
-            />
-        </a>
-        <a href="https://postman.com" target="_blank">
-            <img
-                src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
-                alt="postman"
-                height="30"
-            />
-        </a>
-        <a href="https://www.mathworks.com/" target="_blank">
-            <img
-                src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/667px-Matlab_Logo.png"
-                alt="matlab"
+                src="https://cdn.worldvectorlogo.com/logos/raspberry-pi.svg"
+                alt="arduino"
                 height="30"
             />
         </a>
@@ -637,12 +720,10 @@ Brian Herbert once said, "The capacity to learn is a gift; the ability to learn 
 
 _Profile stats_
 
-[![visitors](https://visitor-badge.glitch.me/badge?page_id=vikichand)](/)
+<!-- [![visitors](https://visitor-badge.glitch.me/badge?page_id=vikichand)](/) -->
 [![Github](https://img.shields.io/github/followers/vikichand?label=Follow&style=social)](https://github.com/vikichand)
 
-<!--
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=vikichand&theme=github)
--->
+<!-- ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=vikichand&theme=github) -->
 
 #
 
