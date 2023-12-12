@@ -93,7 +93,7 @@ Proficient in a broad tech stack including but not limited to:
     - UI/UX Design | Adobe XD | Adobe Photoshop | Figma | Unity | Unreal Engine | Game Development | FL Studio |
       Music Production
 
----
+#
 
 Brian Herbert once said, 
 
@@ -103,7 +103,7 @@ I couldn't agree more!
 
 #learneveryday 🚀
 
----
+#
 
 -   💎 Currently trying to find time to learn more and work on
     -   Full-Stack
