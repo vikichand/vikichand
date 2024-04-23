@@ -76,22 +76,24 @@
 
 Not your typical nerd 🧠😈
 
-I quite passionately introduce myself as a Full-Stack Creative Software Engineer, passionate about Machine Learning, AI, and Creative Coding, with an enthusiastic student-minded eagerness.
+I quite passionately introduce myself as a Full-Stack Creative Software Engineer, passionate about Full-Stack Creative Coding, Machine Learning, and AI, with an enthusiastic student-minded eagerness. 
 
-I enjoy having the freedom of exploring and learning new technologies, which allows me the advantage of a T-Shaped skill set.
+I enjoy having the freedom of exploring and learning new technologies, which allows me the advantage of a T-shaped skillset.
 
-To give a little background, I've been diving headfirst into the tech industry for over 10 years, and while my keyboard has thankfully stayed clean, my hands have gotten quite dirty learning, exploring, and engineering cool stuff prizing the agility of a T-shaped skill set.
+To give a little background, I've been diving headfirst into the tech industry for over 10 years, and while my keyboard has thankfully stayed clean, my hands have gotten quite dirty learning, exploring, and engineering cool things prizing the agility of a T-shaped skill set.
 
-But professionally, a dynamic Full-Stack Creative Software Engineer boasting over 7 years of comprehensive hands-on experience in architecting, developing, and deploying enterprise-level applications across various platforms and industries. I've spearheaded solution design initiatives, significantly contributing to revenue growth, driving user engagement, and optimizing software performance. My expertise encompasses crafting state-of-the-art interactive UIs, integrating advanced Machine Learning and AI algorithms, enhancing user experiences, and streamlining delivery times. I've adeptly managed cross-functional teams in both on-site and remote environments, emphasizing CI/CD processes and rigorous testing protocols to consistently exceed business objectives.
+But professionally, I am a dynamic Full-Stack Creative Software Engineer with over 7 years of comprehensive hands-on experience in architecting, designing, developing, and deploying enterprise-level applications across various platforms and industries. My expertise shines in creating immersive, interactive user interfaces and robust back-end solutions that power them, ensuring seamless functionality and integration, while seamlessly integrating advanced Machine Learning and AI technologies. I manage cross-functional teams in both on-site and remote environments, consistently pushing the boundaries of technology to exceed business objectives. My technical acumen is complemented by exceptional interpersonal skills—skills developed from unexpected roles such as bartending—enabling me to foster innovative and collaborative project environments.
 
 Proficient in a broad tech stack including but not limited to:
 
     🥷
-    - JavaScript | Python | React | Next.js | Flask | AWS | Angular | TypeScript | React Native | Flutter | NodeJS |
-      Express | Redux | jQuery | PHP | GSAP | Three.js | WebGL | C# | .NET | C++ | SQL | Postgres | Firebase | Superbase |
-      MongoDB | GitHub | Vercel | CI/CD | Terraform | Web3
-    - UI/UX Design | Adobe XD | Adobe Photoshop | Figma | Unity | Unreal Engine | Game Development | FL Studio |
-      Music Production
+    - JavaScript | NodeJS | Python | React | Next.js | Flask | AWS | Angular | TypeScript | React Native | Flutter | 
+    Express | Redux | jQuery | PHP | GSAP | Three.js | WebGL | C# | .NET | C++ | SQL | Postgres | Firebase | MongoDB | 
+    GitHub | Vercel | CI/CD | Terraform | Web3
+    - UI/UX Design | Figma | Adobe XD | Adobe Photoshop | Unity | Unreal Engine | Game Development | FL Studio | 
+    Music Production
+    - Scalable Architecture | API Design and Integration | Agile Development | Data Management and Security | 
+    Performance Optimization | Machine Learning and AI Integration | Full-Stack | Frontend | Backend 
 
 #
 
