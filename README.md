@@ -740,7 +740,7 @@ _Profile stats_
 
 ### ➜ Bizness <a href="#"><img src="./assets/images/flash.gif" width="50" alt="Hi"></a>
 
--   <a href="https://links.vikash.ch" target="_blank">📑 My Resume / CV</a> _updated [2023]_
+-   <a href="https://links.vikash.ch" target="_blank">📑 My Resume / CV</a> <!-- _updated [2023]_ -->
 
 <p align="right">
     <a href="#">
